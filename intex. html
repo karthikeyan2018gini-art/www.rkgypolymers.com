@@ -1,0 +1,72 @@
+# www.rkgypolymers.com
+Manufacturing of masterbatch and plastic granual
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>RKGY Polymers Limited | Masterbatch & Polymer Solutions</title>
+<meta name="description" content="RKGY Polymers Limited - Masterbatch and polymer solutions in Chidambaram, Tamil Nadu. Color, black, white, filler, additive, CaCO3, talc masterbatch and recycled PP & HDPE.">
+<style>
+:root{--navy:#0b1f33;--blue:#1261a0;--cyan:#19a7ce;--light:#f4f8fb;--text:#243746;--white:#fff;--green:#159447}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Arial,Helvetica,sans-serif;color:var(--text);line-height:1.6;background:#fff}
+.container{width:min(1120px,92%);margin:auto}.top{background:var(--navy);color:#fff;padding:9px 0;font-size:14px}.top .container{display:flex;justify-content:space-between;gap:15px;flex-wrap:wrap}
+nav{background:#fff;position:sticky;top:0;z-index:10;box-shadow:0 2px 12px #0001}.navin{display:flex;align-items:center;justify-content:space-between;padding:14px 0}.logo{font-weight:800;font-size:21px;color:var(--navy)}.logo span{color:var(--cyan)}nav a{color:var(--navy);text-decoration:none;margin-left:22px;font-weight:600;font-size:14px}
+.hero{background:linear-gradient(115deg,#071b2e 0%,#0c3b60 58%,#087eaa 100%);color:#fff;padding:95px 0 85px;position:relative;overflow:hidden}.hero:after{content:"";position:absolute;width:420px;height:420px;border:70px solid #ffffff12;border-radius:50%;right:-100px;top:-120px}.hero h1{font-size:clamp(38px,6vw,64px);line-height:1.05;margin:0 0 18px;max-width:780px}.hero p{font-size:19px;max-width:700px;color:#e4f4fb}.tag{display:inline-block;background:#19a7ce22;border:1px solid #5dd4ef66;padding:7px 13px;border-radius:30px;margin-bottom:20px;font-weight:700}.buttons{margin-top:30px}.btn{display:inline-block;padding:13px 21px;border-radius:7px;text-decoration:none;font-weight:700;margin:5px 7px 5px 0}.primary{background:#19a7ce;color:#fff}.outline{border:1px solid #fff;color:#fff}.section{padding:72px 0}.section.alt{background:var(--light)}.title{text-align:center;margin-bottom:40px}.title h2{font-size:34px;margin:0;color:var(--navy)}.title p{max-width:680px;margin:10px auto;color:#657783}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:18px}.card{background:#fff;border:1px solid #e1eaf0;border-radius:12px;padding:24px;box-shadow:0 6px 22px #102a3b0a}.card h3{margin:8px 0;color:var(--navy)}.icon{font-size:30px}.about{display:grid;grid-template-columns:1fr 1fr;gap:45px;align-items:center}.aboutbox{background:linear-gradient(135deg,#0b1f33,#1261a0);color:#fff;border-radius:18px;padding:42px;min-height:300px}.aboutbox h3{font-size:28px;margin-top:0}.checks{padding:0;list-style:none}.checks li{margin:12px 0}.checks li:before{content:"✓";color:var(--green);font-weight:bold;margin-right:10px}.apps{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.app{padding:25px;border-left:4px solid var(--cyan);background:#fff;border-radius:8px}.quality{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.contact{display:grid;grid-template-columns:1fr 1fr;gap:35px}.contactbox{background:var(--navy);color:#fff;border-radius:15px;padding:34px}.contactbox a{color:#8ee6fa}.contactform{padding:30px;border:1px solid #dfe8ed;border-radius:15px}input,textarea{width:100%;padding:13px;margin:7px 0 14px;border:1px solid #cbd8df;border-radius:7px;font:inherit}textarea{min-height:120px}.submit{border:0;background:var(--cyan);color:#fff;padding:13px 22px;border-radius:7px;font-weight:700;cursor:pointer}.gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.photo{height:190px;border-radius:12px;background:linear-gradient(135deg,#d9edf4,#7bbbd0);display:flex;align-items:center;justify-content:center;color:#0b3a55;font-weight:700}.quote{background:#eaf8fc;text-align:center;padding:50px 20px}.quote h2{color:var(--navy);font-size:32px;margin:0 0 10px}footer{background:#071b2e;color:#d7e4ea;padding:35px 0;text-align:center}.wa{position:fixed;right:20px;bottom:20px;background:#20b95a;color:#fff;text-decoration:none;border-radius:50px;padding:13px 18px;font-weight:800;box-shadow:0 5px 20px #0003;z-index:20}
+@media(max-width:800px){.grid{grid-template-columns:repeat(2,1fr)}.about,.contact{grid-template-columns:1fr}.apps,.quality,.gallery{grid-template-columns:1fr 1fr}nav .links{display:none}.hero{padding:70px 0}.top .container{justify-content:center}}
+@media(max-width:520px){.grid,.apps,.quality,.gallery{grid-template-columns:1fr}.hero h1{font-size:42px}.section{padding:55px 0}.top{font-size:12px}}
+</style>
+</head>
+<body>
+<div class="top"><div class="container"><span>📞 +91 97517 64464</span><span>✉ Karthikeyan2015@yahoo.co.in</span><span>📍 Chidambaram, Tamil Nadu</span></div></div>
+
+<nav><div class="container navin">
+<div class="logo">RKGY <span>POLYMERS</span> LIMITED</div>
+<div class="links"><a href="#home">Home</a><a href="#about">About</a><a href="#products">Products</a><a href="#applications">Applications</a><a href="#quality">Quality</a><a href="#contact">Contact</a></div>
+</div></nav>
+
+<section class="hero" id="home"><div class="container">
+<div class="tag">MASTERBATCH & POLYMER SOLUTIONS</div>
+<h1>High-Performance Masterbatch Solutions for the Plastics Industry</h1>
+<p>Consistent colour, reliable dispersion and customized polymer solutions for a wide range of plastic applications.</p>
+<div class="buttons"><a class="btn primary" href="#contact">GET A QUOTE</a><a class="btn outline" href="https://wa.me/919751764464?text=Hello%20RKGY%20Polymers%2C%20I%20would%20like%20to%20enquire%20about%20your%20masterbatch%20products." target="_blank">WHATSAPP US</a></div>
+</div></section>
+
+<section class="section" id="about"><div class="container about">
+<div><div class="title" style="text-align:left;margin-bottom:20px"><h2>About RKGY Polymers</h2></div>
+<p>RKGY Polymers Limited is focused on delivering dependable masterbatch and polymer solutions for plastic processing industries.</p>
+<p>We support customers with colour, filler and additive solutions designed for consistent processing and application requirements.</p>
+<ul class="checks"><li>Consistent product performance</li><li>Customized formulation support</li><li>Reliable supply for industrial applications</li><li>Customer-focused technical service</li></ul></div>
+<div class="aboutbox"><h3>Polymer solutions built for industry.</h3><p>From colour masterbatch to filler, additive and recycled polymer materials, our product range is designed to support efficient plastic manufacturing.</p></div>
+</div></section>
+
+<section class="section alt" id="products"><div class="container"><div class="title"><h2>Our Products</h2><p>A practical range of masterbatch and recycled polymer materials for different processing needs.</p></div>
+<div class="grid">
+<div class="card"><div class="icon">🎨</div><h3>Color Masterbatch</h3><p>Colour solutions for consistent and attractive finished plastic products.</p></div>
+<div class="card"><div class="icon">⚫</div><h3>Black Masterbatch</h3><p>Black colour concentrates for a wide range of polymer applications.</p></div>
+<div class="card"><div class="icon">⚪</div><h3>White Masterbatch</h3><p>White concentrates designed for opacity and appearance requirements.</p></div>
+<div class="card"><div class="icon">◈</div><h3>Filler Masterbatch</h3><p>Filler solutions to support cost and processing objectives.</p></div>
+<div class="card"><div class="icon">➕</div><h3>Additive Masterbatch</h3><p>Functional additives tailored to specific plastic applications.</p></div>
+<div class="card"><div class="icon">Ca</div><h3>CaCO₃ Masterbatch</h3><p>Calcium carbonate based filler masterbatch for suitable applications.</p></div>
+<div class="card"><div class="icon">T</div><h3>Talc Masterbatch</h3><p>Talc-filled polymer solutions for selected industrial applications.</p></div>
+<div class="card"><div class="icon">♻</div><h3>Recycled PP & HDPE</h3><p>Recycled polymer materials for appropriate plastic processing applications.</p></div>
+</div></div></section>
+
+<section class="section" id="applications"><div class="container"><div class="title"><h2>Applications</h2><p>Solutions for a variety of plastic manufacturing processes.</p></div>
+<div class="apps"><div class="app"><h3>Plastic Extrusion</h3><p>Masterbatch solutions for extrusion-based products.</p></div><div class="app"><h3>Injection Moulding</h3><p>Colour and additive solutions for moulded components.</p></div><div class="app"><h3>Woven Sacks</h3><p>Polymer and masterbatch solutions for woven packaging applications.</p></div><div class="app"><h3>Film & Packaging</h3><p>Colour and functional solutions for flexible packaging applications.</p></div><div class="app"><h3>Household Plastics</h3><p>Solutions for a wide range of everyday plastic products.</p></div><div class="app"><h3>Industrial Plastics</h3><p>Materials suited to selected industrial plastic applications.</p></div></div></div></section>
+
+<section class="section alt" id="quality"><div class="container"><div class="title"><h2>Quality & Service</h2><p>Our focus is consistent materials, dependable supply and responsive customer support.</p></div>
+<div class="quality"><div class="card"><h3>Consistent Quality</h3><p>Focus on batch-to-batch consistency and reliable processing performance.</p></div><div class="card"><h3>Customized Solutions</h3><p>Product recommendations can be aligned with customer polymer and application requirements.</p></div><div class="card"><h3>Technical Support</h3><p>Discuss your colour, filler, additive or recycled polymer requirement with our team.</p></div></div></div></section>
+
+<section class="section"><div class="container"><div class="title"><h2>Factory & Product Gallery</h2><p>Replace these placeholders with your actual factory, machine, product and material photographs.</p></div>
+<div class="gallery"><div class="photo">Factory Photo</div><div class="photo">Extruder / Machine</div><div class="photo">Masterbatch Pellets</div><div class="photo">Colour Samples</div><div class="photo">Raw Materials</div><div class="photo">Finished Products</div></div></div></section>
+
+<section class="quote"><div class="container"><h2>Need a Masterbatch Solution?</h2><p>Send us your polymer, colour or application requirement and request a quotation.</p><a class="btn primary" href="#contact">REQUEST A QUOTE</a></div></section>
+
+<section class="section" id="contact"><div class="container"><div class="title"><h2>Contact Us</h2><p>We would be happy to discuss your masterbatch and polymer requirements.</p></div>
+<div class="contact"><div class="contactbox"><h3>RKGY POLYMERS LIMITED</h3><p>📍 No. 945, Parangipettai Salai,<br>B. Mudlur, Chidambaram,<br>Cuddalore, Tamil Nadu, India</p><p>📞 <a href="tel:+919751764464">+91 97517 64464</a></p><p>✉ <a href="mailto:Karthikeyan2015@yahoo.co.in">Karthikeyan2015@yahoo.co.in</a></p><a class="btn primary" href="https://wa.me/919751764464" target="_blank">Chat on WhatsApp</a></div>
+<form class="contactform" action="mailto:Karthikeyan2015@yahoo.co.in" method="post" enctype="text/plain"><label>Name</label><input name="Name" required><label>Phone / WhatsApp</label><input name="Phone" required><label>Email</label><input type="email" name="Email"><label>Requirement</label><textarea name="Requirement" placeholder="Tell us your product, polymer, colour or quantity requirement"></textarea><button class="submit" type="submit">SEND ENQUIRY</button></form></div></div></section>
+
+<footer><div class="container"><strong>RKGY POLYMERS LIMITED</strong><br>Masterbatch & Polymer Solutions<br><small>© 2026 RKGY Polymers Limited. All rights reserved.</small></div></footer>
+<a class="wa" href="https://wa.me/919751764464?text=Hello%20RKGY%20Polymers%2C%20I%20would%20like%20to%20enquire." target="_blank">💬 WhatsApp</a>
+</body></html>
